@@ -189,5 +189,5 @@ Georgia's real estate market is **highly concentrated, agency-driven, and rental
 
 ---
 
-*Report generated from 432,759 active listings on myhome.ge — March 2026.*
-*Full dataset: [kaggle.com/datasets/ismetsemedov/myhome](https://www.kaggle.com/datasets/ismetsemedov/myhome)*
+- *Report generated from 432,759 active listings on myhome.ge — March 2026.*
+- *Full dataset: [kaggle.com/datasets/ismetsemedov/myhome](https://www.kaggle.com/datasets/ismetsemedov/myhome)*
